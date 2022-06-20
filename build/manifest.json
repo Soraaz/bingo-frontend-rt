@@ -1,0 +1,40 @@
+{
+  "name": "Team Lindy Bingo Card",
+  "short_name": "Lindy Bingo",
+  "lang": "en-GB",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo128.png",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
