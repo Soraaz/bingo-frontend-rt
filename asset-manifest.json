@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bingo-frontend/static/css/main.9552b207.css",
-    "main.js": "/bingo-frontend/static/js/main.c5a51f9d.js",
-    "static/js/787.9d2a6643.chunk.js": "/bingo-frontend/static/js/787.9d2a6643.chunk.js",
-    "static/media/bingo_jailer2.png": "/bingo-frontend/static/media/bingo_jailer2.d67ea88154d58af72812.png",
-    "service-worker.js": "/bingo-frontend/service-worker.js",
-    "index.html": "/bingo-frontend/index.html",
-    "main.9552b207.css.map": "/bingo-frontend/static/css/main.9552b207.css.map",
-    "main.c5a51f9d.js.map": "/bingo-frontend/static/js/main.c5a51f9d.js.map",
-    "787.9d2a6643.chunk.js.map": "/bingo-frontend/static/js/787.9d2a6643.chunk.js.map"
+    "main.css": "/static/css/main.a71d15a6.css",
+    "main.js": "/static/js/main.3f3d823a.js",
+    "static/js/787.9d2a6643.chunk.js": "/static/js/787.9d2a6643.chunk.js",
+    "static/media/bingo_jailer2.png": "/static/media/bingo_jailer2.d67ea88154d58af72812.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.a71d15a6.css.map": "/static/css/main.a71d15a6.css.map",
+    "main.3f3d823a.js.map": "/static/js/main.3f3d823a.js.map",
+    "787.9d2a6643.chunk.js.map": "/static/js/787.9d2a6643.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9552b207.css",
-    "static/js/main.c5a51f9d.js"
+    "static/css/main.a71d15a6.css",
+    "static/js/main.3f3d823a.js"
   ]
 }
