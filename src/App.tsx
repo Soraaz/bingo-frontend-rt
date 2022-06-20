@@ -64,12 +64,11 @@ const App = () => {
   };
 
   return (
-    <div className="App">
+    <div className="App" >
       <header className="App-header">
-        <h1>Team Lindy Bingo</h1>
         <div className="App-actions">
           <ActionButton
-            text="New card"
+            text="Nouvelle carte"
             onClick={setNewWords}
             activeDuration={100}
           />
@@ -77,12 +76,6 @@ const App = () => {
             text="Clear"
             onClick={clearAllCells}
             activeDuration={100}
-          />
-          <ActionButton
-            text="Share"
-            changeText="Copied"
-            onClick={copyBoardToClipboard}
-            activeDuration={1500}
           />
         </div>
       </header>

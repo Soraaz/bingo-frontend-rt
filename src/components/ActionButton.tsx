@@ -34,7 +34,7 @@ const ActionButton: React.FC<{
     }, activeDuration);
 
     setStyles(element, {
-      color: "#282c34",
+      color: "white",
       backgroundColor: "white",
     });
     if (changeText) {

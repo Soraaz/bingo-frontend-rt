@@ -1,14 +1,17 @@
 .App {
   text-align: center;
+  width: 979px;
+  height: 853px;
+  margin: auto;
+  background-image: url("../public/bingo_jailer2.png");
 }
 
 .App-header {
-  background-color: #282c34;
+  padding-top: 10px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
