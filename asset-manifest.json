@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/bingo-frontend-rt/static/css/main.bc4ac6f7.css",
+    "main.css": "/bingo-frontend-rt/static/css/main.b9bb75e7.css",
     "main.js": "/bingo-frontend-rt/static/js/main.9ef52949.js",
     "static/js/787.9d2a6643.chunk.js": "/bingo-frontend-rt/static/js/787.9d2a6643.chunk.js",
     "static/media/bingo_jailer2.png": "/bingo-frontend-rt/static/media/bingo_jailer2.d67ea88154d58af72812.png",
+    "static/media/fanny-vergne-jailer03.jpg": "/bingo-frontend-rt/static/media/fanny-vergne-jailer03.17d929f7cafc07792611.jpg",
     "service-worker.js": "/bingo-frontend-rt/service-worker.js",
     "index.html": "/bingo-frontend-rt/index.html",
-    "main.bc4ac6f7.css.map": "/bingo-frontend-rt/static/css/main.bc4ac6f7.css.map",
+    "main.b9bb75e7.css.map": "/bingo-frontend-rt/static/css/main.b9bb75e7.css.map",
     "main.9ef52949.js.map": "/bingo-frontend-rt/static/js/main.9ef52949.js.map",
     "787.9d2a6643.chunk.js.map": "/bingo-frontend-rt/static/js/787.9d2a6643.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc4ac6f7.css",
+    "static/css/main.b9bb75e7.css",
     "static/js/main.9ef52949.js"
   ]
 }
